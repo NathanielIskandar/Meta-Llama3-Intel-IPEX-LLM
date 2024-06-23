@@ -17,7 +17,7 @@ This repository contains a Jupyter Notebook for experimenting with the Meta-Llam
    pip install --pre --upgrade ipex-llm[all] --extra-index-url https://download.pytorch.org/whl/cpu
    pip install transformers==4.37.0
 
-## Setup Instructions
+## Running The Notebook
 
 1. **Open the Jupyter Notebook:**
    Launch Jupyter Lab or Jupyter Notebook and open the Meta-Llama3-Intel-IPEX-LLM.ipynb file.
