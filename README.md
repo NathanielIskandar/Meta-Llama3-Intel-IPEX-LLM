@@ -3,6 +3,8 @@
 ## Overview
 This Generative AI application was developed using the Intel Tiber Developer Cloud, fully utilizing IDC Jupyter Notebooks. The project integrates the Meta Llama 3 model and the Intel® Extension for PyTorch (IPEX) for model optimization.
 
+Intel IPEX LLM: https://github.com/intel-analytics/ipex-llm
+
 ## Setup Instructions
 
 ### Hugging Face Set Up
